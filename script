@@ -1,0 +1,90 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("network77", "DarkTheme")
+ 
+--main
+--by maconha rsrs
+
+local Main = Window:NewTab("Main")
+local MainSection = Main:NewSection("Main")
+ 
+MainSection:NewButton("Thanos", "i'll do it myself", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/85KvZz1E"))()
+end)
+
+MainSection:NewButton("Rick", "...", function()
+    loadstring(game:HttpGet("https://pastebin.com/Fi3aFPZ6"))()
+end)
+ 
+MainSection:NewButton("Wanda", "...", function()  
+    loadstring(game:HttpGet("https://pastebin.com/raw/61x9QmLt"))()
+end)
+ 
+MainSection:NewButton("GigaChad", "...", function()  
+    loadstring(game:HttpGet("https://pastebin.com/raw/ta8VF3VF"))()
+end)
+ 
+MainSection:NewButton("Ur life is nothing", "...", function()  
+    loadstring(game:HttpGet("https://pastebin.com/raw/YTL0Mm37"))()
+end)
+ 
+MainSection:NewButton("Saitama", "...", function()  
+    loadstring(game:HttpGet("https://pastebin.com/raw/Fq4YZa8J"))()
+end)
+ 
+MainSection:NewButton("All Might", "...", function()  
+    loadstring(game:HttpGet("https://pastebin.com/raw/ENKPgN7v"))()
+end)
+ 
+local OP = Window:NewTab("Utils")
+local OPSection = OP:NewSection("Utils") 
+ 
+OPSection:NewButton("Thanos No Cooldown Time Freeze", "Keybind is Z", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/L6HBvLJP"))()
+end)
+ 
+OPSection:NewButton("Thanos No Cooldown Snap", "Keybind is U", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/UZyFbdhG"))()
+end)
+ 
+OPSection:NewButton("Infinte Yeild", "Admin", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+ 
+OPSection:NewButton("No cooldown parry", "infinte parry, keybind is K", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/WQ1r2T1S'))()
+end)
+ 
+local Skins = Window:NewTab("Skins")
+local SkinsSection = Skins:NewSection("Skins")
+ 
+SkinsSection:NewButton("Thanos Skin 2", "Thanos version 2", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/NzSrK26N'))()
+end)
+ 
+SkinsSection:NewButton("Wanda Skin 2", "Wanda version 2", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/wAXNjvEz'))()
+end)
+ 
+SkinsSection:NewButton("Wanda Skin 3", "Wanda version 3", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/9uDxp6CY'))()
+end)
+ 
+SkinsSection:NewButton("Wanda Skin 4", "Wanda version 4", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/6wBkDa00'))()
+end)
+ 
+SkinsSection:NewButton("IShowSpeed Skin 2", "IShowSpeed version 2", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/uq47AtkV'))()
+end)
+ 
+local Info = Window:NewTab("About")
+local InfoSection = Info:NewSection("About")
+ 
+InfoSection:NewButton("v2", "last update was on 04/10/23", function()
+end)
+ 
+InfoSection:NewButton("made by sk4nk", "who is sk4nk? maconha rs", function()
+end)
+ 
+InfoSection:NewButton("not patched, at working", "working", function()
+end)
