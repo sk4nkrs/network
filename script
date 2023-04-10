@@ -14,7 +14,7 @@ end)
 MainSection:NewButton("Rick", "i'll do it myself", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/xTznkJR9"))()
 end)
- 
+
 MainSection:NewButton("Wanda", "...", function()  
     loadstring(game:HttpGet("https://pastebin.com/raw/61x9QmLt"))()
 end)
