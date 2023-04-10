@@ -12,7 +12,7 @@ MainSection:NewButton("Thanos", "i'll do it myself", function()
 end)
 
 MainSection:NewButton("Rick", "i'll do it myself", function()
-    loadstring(game:HttpGet("https://pastebin.com/Fi3aFPZ6"))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/xTznkJR9"))()
 end)
  
 MainSection:NewButton("Wanda", "...", function()  
