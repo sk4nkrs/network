@@ -15,23 +15,31 @@ MainSection:NewButton("Rick", "i'll do it myself", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/xTznkJR9"))()
 end)
 
-MainSection:NewButton("Wanda", "...", function()  
+MainSection:NewButton("Wanda", "Get out of my way", function()  
     loadstring(game:HttpGet("https://pastebin.com/raw/61x9QmLt"))()
 end)
+
+MainSection:NewButton("Supreme Sorcerer", "The man who scared the watcher, he just wanna she back", function()  
+    loadstring(game:HttpGet("https://pastebin.com/raw/Jzj206WA"))()
+end)
+
+MainSection:NewButton("Mr Beast", "This is your final test", function()  
+    loadstring(game:HttpGet("https://pastebin.com/raw/VXrTpBUa"))()
+end)
  
-MainSection:NewButton("GigaChad", "...", function()  
+MainSection:NewButton("GigaChad", "Can you feel?", function()  
     loadstring(game:HttpGet("https://pastebin.com/raw/ta8VF3VF"))()
 end)
  
-MainSection:NewButton("Ur life is nothing", "...", function()  
+MainSection:NewButton("Low Tier God", "In the level of the multiverse, your life is nothing", function()  
     loadstring(game:HttpGet("https://pastebin.com/raw/YTL0Mm37"))()
 end)
  
-MainSection:NewButton("Saitama", "...", function()  
+MainSection:NewButton("Saitama", "I becoming bored", function()  
     loadstring(game:HttpGet("https://pastebin.com/raw/Fq4YZa8J"))()
 end)
  
-MainSection:NewButton("All Might", "...", function()  
+MainSection:NewButton("All Might", "You need pay your bites!", function()  
     loadstring(game:HttpGet("https://pastebin.com/raw/ENKPgN7v"))()
 end)
  
